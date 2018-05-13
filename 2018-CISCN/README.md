@@ -13,3 +13,4 @@ WriteUp:
 (standard input):29694:CISCN{You.Got.It.187d34}!
 ```
 
+其他WP：[https://www.52pojie.cn/thread-732912-1-1.html](https://www.52pojie.cn/thread-732912-1-1.html)
